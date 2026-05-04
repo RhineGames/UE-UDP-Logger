@@ -3,6 +3,8 @@
     "Version": 1,
     "VersionName": "1.0",
     "FriendlyName": "UDP Logger",
+    "CreatedBy": "Rhine Games",
+    "CreatedByURL": "https://www.rhinegames.com",
     "Description": "Sends Unreal logs over UDP",
     "Category": "Debug",
     "Modules": [
